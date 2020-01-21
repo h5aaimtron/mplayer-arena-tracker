@@ -1,2 +1,2 @@
 # mplayer-arena-tracker
-Issue tracker for testters.
+Issue tracker for mplayer-arena testers.
